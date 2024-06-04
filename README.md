@@ -1,7 +1,12 @@
 # h4ck1nsta
 
-A python script for automating the process of finding uncreated Instagram accounts and checking their connecting email addresses.
-Getting Started
+# note 
+if the script Stops working then use any Vpn.
+
+# overview 
+A python script for automating the process of finding uncreated Instagram accounts and checking their connecting email addresses , number of posts etc,this script will print all the information for account hijacking,on your telegram bot.
+
+Getting Started:-
 
 # Prerequisites
  Python 
@@ -23,13 +28,7 @@ Run the script:
 
 `python jack.py`
 
-Follow the prompts to enter the your `telegram chat id` and `telegram bot token` so that this script can save all the username , connected mail and if there is a bio and posts u can directly see them on your telegram bot , 
-the script will:
-Search for usernames based on the provided names
-Check if the usernames are one-letter longer than their corresponding names
-Attempt to reset the password to see if a reset email is sent to a yahoo or gmail address
-Check if the email address is uncreated (not taken)
-
+Follow the prompts to enter the your `telegram chat id` and `telegram bot token` so that this script can save all the username , connected mail and if there is a bio and posts u can directly see them on your telegram bot ,
 # SCREENSHOTS & TUTORIAL
 
 ![Screenshot_2024-06-04_21_02_44](https://github.com/Sumitshah00/h4ck1nsta/assets/149252561/30a180fb-41ea-43d0-9678-c47f1659c91a)
@@ -39,6 +38,6 @@ Check if the email address is uncreated (not taken)
 
 video 👉 "https://www.youtube.com/embed/lrrdFX9mc-c"
 
-#Disclaimer
+# Disclaimer
 
-This tool is for educational purposes only. Do not use it for malicious activities. The developers are not responsible for any misuse or unintended consequences of using this tool.
+This tool is for educational purposes only. Do not use it for malicious activities. The developer is not responsible for any misuse or unintended consequences of using this tool. 
