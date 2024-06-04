@@ -32,6 +32,9 @@ Check if the email address is uncreated (not taken)
 
 # SCREENSHOTS & TUTORIAL
 
+![Screenshot_2024-06-04_21_02_44](https://github.com/Sumitshah00/h4ck1nsta/assets/149252561/30a180fb-41ea-43d0-9678-c47f1659c91a)
+
+
 <video width="640" height="480" controls>
   <source src="https://www.youtube.com/embed/lrrdFX9mc-c" type="video/mp4">
   Your browser does not support the video tag.
