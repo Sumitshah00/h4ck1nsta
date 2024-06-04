@@ -32,7 +32,9 @@ Check if the email address is uncreated (not taken)
 
 # SCREENSHOTS & TUTORIAL
 
-
+<video width="640" height="480" controls>
+  <source src="https://youtu.be/lrrdFX9mc-c?si=feqEloSAM-TBN9qV" type="video/mp4">
+</video>
 
 
 #Disclaimer
