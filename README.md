@@ -35,10 +35,7 @@ Check if the email address is uncreated (not taken)
 ![Screenshot_2024-06-04_21_02_44](https://github.com/Sumitshah00/h4ck1nsta/assets/149252561/30a180fb-41ea-43d0-9678-c47f1659c91a)
 
 
-<video width="640" height="480" controls>
-  <source src="https://www.youtube.com/embed/lrrdFX9mc-c" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/lrrdFX9mc-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #Disclaimer
 This tool is for educational purposes only. Do not use it for malicious activities. The developers are not responsible for any misuse or unintended consequences of using this tool.
