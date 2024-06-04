@@ -56,6 +56,44 @@ RED = '\033[91m'
 GREEN = '\033[92m'
 CYAN = '\033[96m'
 MAGENTA = '\033[95m'
+# Function to print the banner
+def print_banner():
+    banner = """
+                            ,--.
+                           {    }
+                           K,   }
+                          /  ~Y`
+                     ,   /   /
+                    {_'-K.__/
+                      `/-.__L._
+                      /  ' /`\_}
+                     /  ' /
+             ____   /  ' /
+      ,-'~~~~    ~~/  ' /_
+    ,'             ``~~~  ',
+   (                        Y
+  {                         I
+ {      -                    `,
+ |       ',                   )
+ |        |   ,..__      __. Y
+ |    .,_./  Y ' / ^Y   J   )|
+ \           |' /   |   |   ||
+  \          L_/    . _ (_,.'(
+   \,   ,      ^^""' / |      )
+     \_  \          /,L]     /
+       '-_~-,       ` `   ./`
+          `'{_            )
+              ^^\..___,.--`      byteX
+  __________________________________________________________________________
+owner = byteassassins
+
+insta = https://www.instagram.com/byteassassins/
+  __________________________________________________________________________
+"""
+    print(banner + RESET)
+
+# Print the banner
+print_banner()
 ID = input(f"{YELLOW}{BOLD}ID :  ")
 token = input(f"{RED}{BOLD}Token : ")
 #def namefile():
@@ -247,7 +285,7 @@ def info(username,jj):
     except:
       date='None'
     tlg = f'''
-⌯ Hi Bro  Got Hit
+⌯ Got some Hits  😉
 ᯓᯓᯓᯓᯓᯓᯓᯓ
 folowers : {user_followers}
 following : {user_following}
