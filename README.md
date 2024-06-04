@@ -33,9 +33,9 @@ Check if the email address is uncreated (not taken)
 # SCREENSHOTS & TUTORIAL
 
 <video width="640" height="480" controls>
-  <source src="https://youtu.be/lrrdFX9mc-c?si=feqEloSAM-TBN9qV" type="video/mp4">
+  <source src="https://www.youtube.com/embed/lrrdFX9mc-c" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
-
 
 #Disclaimer
 This tool is for educational purposes only. Do not use it for malicious activities. The developers are not responsible for any misuse or unintended consequences of using this tool.
