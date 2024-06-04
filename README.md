@@ -61,5 +61,5 @@ This tool is for educational purposes only. Do not use it for malicious activiti
 
 ## Contact
 
-For any inquiries or support, contact [byteassassins]([https://github.com/Sumitshah00](https://www.instagram.com/byteassassins/)).
-```
+For any inquiries or support, contact [byteassassins](https://www.instagram.com/byteassassins/).
+
