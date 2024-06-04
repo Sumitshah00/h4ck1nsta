@@ -1,4 +1,4 @@
-```
+
 # h4ck1nsta
 
 A Python script for automating the process of finding uncreated Instagram accounts and checking their connecting email addresses, number of posts, and other details. This script will print all the information necessary for account hijacking directly to your Telegram bot.
